@@ -130,5 +130,4 @@ Project licensed for educational and non-commercial use only
 ---
 
 ## 📷 Screenshots
-
-> (Add a screenshot of the popup UI below)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/251acfda-4325-43b5-9b43-2065bef314fd" />
